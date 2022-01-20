@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/meaganng/<OWNER>/<OWNER>/readme_header.png "Header")](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6409cff1-0dfe-4d02-9fe2-a8f60e54ea92/d7xnsaw-c3ac63c1-ef83-4751-9caf-b79d14a87b01.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0MDljZmYxLTBkZmUtNGQwMi05ZmUyLWE4ZjYwZTU0ZWE5MlwvZDd4bnNhdy1jM2FjNjNjMS1lZjgzLTQ3NTEtOWNhZi1iNzlkMTRhODdiMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rY0H2Cyh-vSMv1XVHSGZUzZyiCwGM4pmAtAuaFFEJjM)
+[![Header](https://www.deviantart.com/skylera/art/Pusheen-the-Cat-Wallpaper-479800328)
 <!--
 **meaganng/meaganng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

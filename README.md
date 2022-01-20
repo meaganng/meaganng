@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Header](https://www.deviantart.com/skylera/art/Pusheen-the-Cat-Wallpaper-479800328)
 <!--
 **meaganng/meaganng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

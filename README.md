@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there!
 
-I'm a Masters of Geomatics for Environmental Management candidate who is interested in how geospatial data can be used in planning, developing, managing, and evaluating. Currently, I am studying how canopy cover influences microclimate. Using LiDAR and Landsat-8 data, calculating canopy cover and land surface temperature can be used to run a multiple linear regression to understand predicted outcomes that come from the driving variable of canopy cover. My current experience with R and Python has helped me in efficiently running models and algorithms in GIS analyses.
+I’m an aspiring data scientist who has studied and worked in the environmental sector for quite a few years now!
+
+I did my Bachelors in Geography, Environment and Sustainability where I found my passion for environmental issues and computer science. I recently just finished my Masters of Geomatics for Environmental Management which allowed me to get the best of both worlds in working with large datasets related to the environmental field of study to find meaningful results.
+
+In my free time, I love graphic design, playing video games, and biking! 
 
 Thanks for visitng my GitHub page! 😄
 

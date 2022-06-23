@@ -2,7 +2,7 @@
 
 I’m an aspiring data scientist who has studied and worked in the environmental sector for quite a few years now!
 
-I did my Bachelors in Geography, Environment and Sustainability where I found my passion for environmental issues and computer science. I recently just finished my Masters of Geomatics for Environmental Management which allowed me to get the best of both worlds in working with large datasets related to the environmental field of study to find meaningful results.
+I did my Bachelors in Geography, Environment and Sustainability where I found my passion for environmental issues and computer science. I recently just finished my Masters of Geomatics for Environmental Management which allowed me to get the best of both worlds in working with large datasets related to the environmental field of study to find meaningful trends and results.
 
 In my free time, I love graphic design, playing video games, and biking! 
 
